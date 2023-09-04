@@ -1,0 +1,23 @@
+.bg-image{
+    background: url('https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.webp')  no-repeat center /cover;
+    background-attachment: fixed;
+    height:600px;
+
+
+}
+
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+body{
+    margin-bottom: 40px; /* Margin bottom by footer height */
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
